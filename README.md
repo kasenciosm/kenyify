@@ -32,5 +32,5 @@ Asegúrate de tener las siguientes herramientas instaladas en tu máquina:
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/yourusername/kenyifi.git
+   git clone https://github.com/kasenciosm/kenyifi.git
    cd kenyifi
